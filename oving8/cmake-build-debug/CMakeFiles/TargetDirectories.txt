@@ -1,0 +1,4 @@
+/Users/stian/CLionProjects/oving8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stian/CLionProjects/oving8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stian/CLionProjects/oving8/cmake-build-debug/CMakeFiles/oppgave2.dir
+/Users/stian/CLionProjects/oving8/cmake-build-debug/CMakeFiles/oppgave1.dir
