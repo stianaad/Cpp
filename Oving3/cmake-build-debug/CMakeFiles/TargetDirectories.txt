@@ -1,0 +1,5 @@
+/Users/stian/CLionProjects/Oving3/cmake-build-debug/CMakeFiles/oppg4.dir
+/Users/stian/CLionProjects/Oving3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stian/CLionProjects/Oving3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stian/CLionProjects/Oving3/cmake-build-debug/CMakeFiles/oppg3.dir
+/Users/stian/CLionProjects/Oving3/cmake-build-debug/CMakeFiles/oppg1.dir

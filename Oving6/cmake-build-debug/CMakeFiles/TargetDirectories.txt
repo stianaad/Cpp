@@ -1,0 +1,4 @@
+/Users/stian/CLionProjects/Oving6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stian/CLionProjects/Oving6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stian/CLionProjects/Oving6/cmake-build-debug/CMakeFiles/server.dir
+/Users/stian/CLionProjects/Oving6/cmake-build-debug/CMakeFiles/main.dir

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Oving4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/stian/CLionProjects/Oving4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/stian/CLionProjects/Oving4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/stian/CLionProjects/Oving4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oppg2">
+				<Option output="/Users/stian/CLionProjects/Oving4/cmake-build-debug/oppg2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stian/CLionProjects/Oving4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gtkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gtkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/atkmm/2.28.0_1/include/atkmm-1.6"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0/unix-print"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gdkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gdkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/giomm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/giomm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/include/pangomm-1.4"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/lib/pangomm-1.4/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/glibmm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/glibmm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/gio-unix-2.0"/>
+					<Add directory="/usr/local/Cellar/cairo/1.16.0_2/include/cairo"/>
+					<Add directory="/usr/local/Cellar/libepoxy/1.5.3/include"/>
+					<Add directory="/usr/local/Cellar/pango/1.44.6/include/pango-1.0"/>
+					<Add directory="/usr/local/Cellar/fribidi/1.0.5/include/fribidi"/>
+					<Add directory="/usr/local/Cellar/harfbuzz/2.6.1/include/harfbuzz"/>
+					<Add directory="/usr/local/Cellar/graphite2/1.3.13/include"/>
+					<Add directory="/usr/local/Cellar/atk/2.32.0_1/include/atk-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/include/cairomm-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/lib/cairomm-1.0/include"/>
+					<Add directory="/usr/local/Cellar/pixman/0.38.4/include/pixman-1"/>
+					<Add directory="/usr/local/Cellar/fontconfig/2.13.1/include"/>
+					<Add directory="/usr/local/opt/freetype/include/freetype2"/>
+					<Add directory="/usr/local/Cellar/libpng/1.6.37/include/libpng16"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/include/sigc++-2.0"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/lib/sigc++-2.0/include"/>
+					<Add directory="/usr/local/Cellar/gdk-pixbuf/2.38.1_1/include/gdk-pixbuf-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/glib-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/lib/glib-2.0/include"/>
+					<Add directory="/usr/local/opt/gettext/include"/>
+					<Add directory="/usr/local/Cellar/pcre/8.43/include"/>
+					<Add directory="/usr/local/Cellar/libffi/3.2.1/lib/libffi-3.2.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 oppg2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oppg2/fast">
+				<Option output="/Users/stian/CLionProjects/Oving4/cmake-build-debug/oppg2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stian/CLionProjects/Oving4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gtkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gtkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/atkmm/2.28.0_1/include/atkmm-1.6"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0/unix-print"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gdkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gdkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/giomm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/giomm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/include/pangomm-1.4"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/lib/pangomm-1.4/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/glibmm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/glibmm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/gio-unix-2.0"/>
+					<Add directory="/usr/local/Cellar/cairo/1.16.0_2/include/cairo"/>
+					<Add directory="/usr/local/Cellar/libepoxy/1.5.3/include"/>
+					<Add directory="/usr/local/Cellar/pango/1.44.6/include/pango-1.0"/>
+					<Add directory="/usr/local/Cellar/fribidi/1.0.5/include/fribidi"/>
+					<Add directory="/usr/local/Cellar/harfbuzz/2.6.1/include/harfbuzz"/>
+					<Add directory="/usr/local/Cellar/graphite2/1.3.13/include"/>
+					<Add directory="/usr/local/Cellar/atk/2.32.0_1/include/atk-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/include/cairomm-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/lib/cairomm-1.0/include"/>
+					<Add directory="/usr/local/Cellar/pixman/0.38.4/include/pixman-1"/>
+					<Add directory="/usr/local/Cellar/fontconfig/2.13.1/include"/>
+					<Add directory="/usr/local/opt/freetype/include/freetype2"/>
+					<Add directory="/usr/local/Cellar/libpng/1.6.37/include/libpng16"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/include/sigc++-2.0"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/lib/sigc++-2.0/include"/>
+					<Add directory="/usr/local/Cellar/gdk-pixbuf/2.38.1_1/include/gdk-pixbuf-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/glib-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/lib/glib-2.0/include"/>
+					<Add directory="/usr/local/opt/gettext/include"/>
+					<Add directory="/usr/local/Cellar/pcre/8.43/include"/>
+					<Add directory="/usr/local/Cellar/libffi/3.2.1/lib/libffi-3.2.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 oppg2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oppg1">
+				<Option output="/Users/stian/CLionProjects/Oving4/cmake-build-debug/oppg1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stian/CLionProjects/Oving4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gtkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gtkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/atkmm/2.28.0_1/include/atkmm-1.6"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0/unix-print"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gdkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gdkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/giomm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/giomm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/include/pangomm-1.4"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/lib/pangomm-1.4/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/glibmm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/glibmm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/gio-unix-2.0"/>
+					<Add directory="/usr/local/Cellar/cairo/1.16.0_2/include/cairo"/>
+					<Add directory="/usr/local/Cellar/libepoxy/1.5.3/include"/>
+					<Add directory="/usr/local/Cellar/pango/1.44.6/include/pango-1.0"/>
+					<Add directory="/usr/local/Cellar/fribidi/1.0.5/include/fribidi"/>
+					<Add directory="/usr/local/Cellar/harfbuzz/2.6.1/include/harfbuzz"/>
+					<Add directory="/usr/local/Cellar/graphite2/1.3.13/include"/>
+					<Add directory="/usr/local/Cellar/atk/2.32.0_1/include/atk-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/include/cairomm-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/lib/cairomm-1.0/include"/>
+					<Add directory="/usr/local/Cellar/pixman/0.38.4/include/pixman-1"/>
+					<Add directory="/usr/local/Cellar/fontconfig/2.13.1/include"/>
+					<Add directory="/usr/local/opt/freetype/include/freetype2"/>
+					<Add directory="/usr/local/Cellar/libpng/1.6.37/include/libpng16"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/include/sigc++-2.0"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/lib/sigc++-2.0/include"/>
+					<Add directory="/usr/local/Cellar/gdk-pixbuf/2.38.1_1/include/gdk-pixbuf-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/glib-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/lib/glib-2.0/include"/>
+					<Add directory="/usr/local/opt/gettext/include"/>
+					<Add directory="/usr/local/Cellar/pcre/8.43/include"/>
+					<Add directory="/usr/local/Cellar/libffi/3.2.1/lib/libffi-3.2.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 oppg1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oppg1/fast">
+				<Option output="/Users/stian/CLionProjects/Oving4/cmake-build-debug/oppg1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stian/CLionProjects/Oving4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gtkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gtkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/atkmm/2.28.0_1/include/atkmm-1.6"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0/unix-print"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/include/gdkmm-3.0"/>
+					<Add directory="/usr/local/Cellar/gtkmm3/3.24.1_1/lib/gdkmm-3.0/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/giomm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/giomm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/include/pangomm-1.4"/>
+					<Add directory="/usr/local/Cellar/pangomm/2.42.0_1/lib/pangomm-1.4/include"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/include/glibmm-2.4"/>
+					<Add directory="/usr/local/Cellar/glibmm/2.60.0_1/lib/glibmm-2.4/include"/>
+					<Add directory="/usr/local/Cellar/gtk+3/3.24.11/include/gtk-3.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/gio-unix-2.0"/>
+					<Add directory="/usr/local/Cellar/cairo/1.16.0_2/include/cairo"/>
+					<Add directory="/usr/local/Cellar/libepoxy/1.5.3/include"/>
+					<Add directory="/usr/local/Cellar/pango/1.44.6/include/pango-1.0"/>
+					<Add directory="/usr/local/Cellar/fribidi/1.0.5/include/fribidi"/>
+					<Add directory="/usr/local/Cellar/harfbuzz/2.6.1/include/harfbuzz"/>
+					<Add directory="/usr/local/Cellar/graphite2/1.3.13/include"/>
+					<Add directory="/usr/local/Cellar/atk/2.32.0_1/include/atk-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/include/cairomm-1.0"/>
+					<Add directory="/usr/local/Cellar/cairomm/1.12.2/lib/cairomm-1.0/include"/>
+					<Add directory="/usr/local/Cellar/pixman/0.38.4/include/pixman-1"/>
+					<Add directory="/usr/local/Cellar/fontconfig/2.13.1/include"/>
+					<Add directory="/usr/local/opt/freetype/include/freetype2"/>
+					<Add directory="/usr/local/Cellar/libpng/1.6.37/include/libpng16"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/include/sigc++-2.0"/>
+					<Add directory="/usr/local/Cellar/libsigc++/2.10.2/lib/sigc++-2.0/include"/>
+					<Add directory="/usr/local/Cellar/gdk-pixbuf/2.38.1_1/include/gdk-pixbuf-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/include/glib-2.0"/>
+					<Add directory="/usr/local/Cellar/glib/2.60.7/lib/glib-2.0/include"/>
+					<Add directory="/usr/local/opt/gettext/include"/>
+					<Add directory="/usr/local/Cellar/pcre/8.43/include"/>
+					<Add directory="/usr/local/Cellar/libffi/3.2.1/lib/libffi-3.2.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 oppg1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stian/CLionProjects/Oving4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/stian/CLionProjects/Oving4/oppg1.cpp">
+			<Option target="oppg1"/>
+		</Unit>
+		<Unit filename="/Users/stian/CLionProjects/Oving4/oppg2.cpp">
+			<Option target="oppg2"/>
+		</Unit>
+		<Unit filename="/Users/stian/CLionProjects/Oving4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

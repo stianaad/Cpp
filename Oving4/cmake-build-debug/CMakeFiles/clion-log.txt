@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/stian/CLionProjects/Oving4
+-- Checking for module 'gtkmm-3.0'
+--   Found gtkmm-3.0, version 3.24.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/stian/CLionProjects/Oving4/cmake-build-debug

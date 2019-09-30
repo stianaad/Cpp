@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -pthread -std=c++1y -Wall -Wextra -Wno-unused-parameter -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/server.dir/server.cpp.o  -o server 

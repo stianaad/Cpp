@@ -1,0 +1,3 @@
+I det første regnestykket blir operatoren for heiltall brukt (int, int) -> (5-3) = 2,
+deretter får vi (int, fraction) -> 2-fraction1 = fractionX, og etter det igjen får vi (fraction, int) -> fraction -7 = fractionY,
+og til slutt får vi (fraction, fraction) -> fractionY - fraction2.
